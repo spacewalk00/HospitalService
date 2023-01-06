@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinnerArray">
+        <item>전체</item>
+        <item>내과</item>
+        <item>외과</item>
+        <item>이비인후과</item>
+        <item>정형외과</item>
+        <item>소아청소년과</item>
+        <item>산부인과</item>
+        <item>안과</item>
+        <item>피부과</item>
+        <item>성형외과</item>
+        <item>정신건강의학과</item>
+        <item>비뇨의학과</item>
+        <item>신경외과</item>
+        <item>심장혈관흉부외과</item>
+        <item>영상의학과</item>
+        <item>신경과</item>
+        <item>일반의</item>
+    </string-array>
+</resources>

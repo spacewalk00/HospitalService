@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/search_hospital"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_local_hospital_24"
+        android:title="병원 찾기"
+        android:fontFamily="@font/font"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/scrap"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_star_outline_24"
+        android:title="찜 하기"
+        android:fontFamily="@font/font"
+        app:showAsAction="always"/>
+</menu>

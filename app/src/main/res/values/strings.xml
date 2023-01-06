@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HospitalService</string>
+    <string name="title">병원 찾기 서비스</string>
+    <string name="data_url">http://apis.data.go.kr/</string>
+</resources>
