@@ -16,7 +16,7 @@
 ![page5-removebg-preview](https://user-images.githubusercontent.com/97500298/211135689-625af667-ce68-48f9-9daf-f3bd3dba3ea3.png)
 <br>
 <br>
-![page6-removebg-preview](https://user-images.githubusercontent.com/97500298/211135701-3edbd674-6a39-4252-bc08-84d127a9964d.png)
+![page6](https://user-images.githubusercontent.com/97500298/211138536-0c750b07-5288-4035-b642-d9df3aee769e.png)
 <br>
 <br>
 ![page7-removebg-preview](https://user-images.githubusercontent.com/97500298/211136404-aeb61528-f575-4466-9e46-bdeb814069dc.png)
